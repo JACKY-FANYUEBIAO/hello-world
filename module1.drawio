@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T15:56:58.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="795hDKYVjAbAL5Exb7Bf" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T15:57:35.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="6vI6yYYkNuzHKXLG8o7_" version="18.0.3" type="github">
   <diagram id="XGTJd4djANMVSPFrWFoy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,14 @@
         <mxCell id="g1gFGv9x-9V0MqwyqPO9-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="g1gFGv9x-9V0MqwyqPO9-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g1gFGv9x-9V0MqwyqPO9-2" target="g1gFGv9x-9V0MqwyqPO9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1gFGv9x-9V0MqwyqPO9-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g1gFGv9x-9V0MqwyqPO9-2" target="g1gFGv9x-9V0MqwyqPO9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g1gFGv9x-9V0MqwyqPO9-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Machine_Learning_Service_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="46" height="50" as="geometry" />
+          <mxGeometry x="117.4" y="50" width="55.2" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1gFGv9x-9V0MqwyqPO9-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="50" height="48" as="geometry" />
@@ -27,6 +33,12 @@
         </mxCell>
         <mxCell id="g1gFGv9x-9V0MqwyqPO9-8" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Security_Center.svg;" vertex="1" parent="1">
           <mxGeometry x="378" y="560" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1gFGv9x-9V0MqwyqPO9-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.72;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g1gFGv9x-9V0MqwyqPO9-9" target="g1gFGv9x-9V0MqwyqPO9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1gFGv9x-9V0MqwyqPO9-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g1gFGv9x-9V0MqwyqPO9-9" target="g1gFGv9x-9V0MqwyqPO9-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g1gFGv9x-9V0MqwyqPO9-9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="50" height="42" as="geometry" />
